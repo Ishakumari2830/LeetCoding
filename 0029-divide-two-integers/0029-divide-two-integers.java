@@ -30,5 +30,5 @@ class Solution {
         }
 
         return isNegative ? -result : result;  // Returning the final quotient with appropriate sign
-    }
-}
+ }
+} 
