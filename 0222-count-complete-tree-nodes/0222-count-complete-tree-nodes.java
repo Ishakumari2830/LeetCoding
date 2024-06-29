@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-     private static class Counter {
+     private static class Counter {//use of wrapper class since in java passes arg by value
         int count = 0;
     }
 
