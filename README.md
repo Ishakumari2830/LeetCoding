@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Ishakumari2830/LeetCoding/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
