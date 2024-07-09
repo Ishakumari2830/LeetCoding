@@ -6,12 +6,9 @@ class Solution {
         int arrT = arr[0];
         int prepT = arr[1];
        
-       if(tottime<arrT){
-        tottime = arrT;
-       }
-       int wt = tottime-arrT + prepT;
+       tottime = Math.max(tottime, arrT)+prepT;
+       int wt = tottime-arrT;
        totwt +=wt;
-       tottime +=prepT;
        }
        return totwt/customers.length;
     }
