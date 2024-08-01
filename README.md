@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Divide and Conquer
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
