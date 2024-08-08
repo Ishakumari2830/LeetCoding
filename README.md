@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ishakumari2830/LeetCoding/tree/master/2727-number-of-senior-citizens) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ishakumari2830/LeetCoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
 | ------- |
