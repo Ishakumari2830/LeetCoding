@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ishakumari2830/LeetCoding/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ishakumari2830/LeetCoding/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/Ishakumari2830/LeetCoding/tree/master/1803-average-waiting-time) |
+| [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
 | ------- |
@@ -228,9 +230,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
+| [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Ishakumari2830/LeetCoding/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
