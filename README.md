@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [1803-average-waiting-time](https://github.com/Ishakumari2830/LeetCoding/tree/master/1803-average-waiting-time) |
 | [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
 ## String
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -243,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
