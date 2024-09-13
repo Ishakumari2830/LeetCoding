@@ -16,7 +16,7 @@ class Solution {
             // }
             else
             {
-                res[i]=pre[sec]^pre[first-1];
+                res[i]=pre[first-1]^pre[sec];
             }
 
         }
