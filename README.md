@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1036-rotting-oranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
