@@ -10,10 +10,10 @@ class Solution {
             int first = queries[i][0];
             int sec = queries[i][1];
             if(first == 0){res[i]=pre[sec];}
-            // else
-            // if(first== sec){
-            //     res[i]=arr[i];
-            // }
+            else
+            if(first== sec){
+                res[i]=arr[first];
+            }
             else
             {
                 res[i]=pre[first-1]^pre[sec];
