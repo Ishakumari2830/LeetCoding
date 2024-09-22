@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/Ishakumari2830/LeetCoding/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ishakumari2830/LeetCoding/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/Ishakumari2830/LeetCoding/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ishakumari2830/LeetCoding/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
@@ -317,8 +319,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/Ishakumari2830/LeetCoding/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Ishakumari2830/LeetCoding/tree/master/0820-find-eventual-safe-states) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0386-lexicographical-numbers) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Ishakumari2830/LeetCoding/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
