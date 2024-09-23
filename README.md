@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ishakumari2830/LeetCoding/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 ## Design
 |  |
