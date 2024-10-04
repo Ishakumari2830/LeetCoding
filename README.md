@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ishakumari2830/LeetCoding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ishakumari2830/LeetCoding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Ishakumari2830/LeetCoding/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ishakumari2830/LeetCoding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ishakumari2830/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ishakumari2830/LeetCoding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ishakumari2830/LeetCoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ishakumari2830/LeetCoding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 ## Bit Manipulation
