@@ -6,23 +6,20 @@ class Solution {
         for (int num : nums) {
             maxOr |= num;
         }
+        int[] count = new int[1];
+        backtrack(nums,0,0,maxOr,count);
+        return count[0];
         
       
-        return countSubsetsWithMaxOr(nums, 0, 0, maxOr);
+       
+    }
+    public void backtrack(int[] nums,int ind,int currentOr,int maxOr,int[] count){
+        if(currentOr == maxOr) count[0]++;
+        for(int i = ind;i<nums.length;i++){
+            backtrack(nums, i+ 1, currentOr | nums[i],maxOr,count);
+        }
     }
     
   
-    private int countSubsetsWithMaxOr(int[] nums, int index, int currentOr, int maxOr) {
-        if (index == nums.length) {
-           
-            return currentOr == maxOr ? 1 : 0;
-        }
-        
-        
-        int include = countSubsetsWithMaxOr(nums, index + 1, currentOr | nums[index], maxOr); 
-        int exclude = countSubsetsWithMaxOr(nums, index + 1, currentOr, maxOr); 
-        
-       
-        return include + exclude;
-    }
+    
 }
