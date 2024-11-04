@@ -1,7 +1,7 @@
 class Solution {
     public int compress(char[] chars) {
-        int index = 0;
-     int i = 0;
+    int ind = 0;
+    int i = 0;
      while(i < chars.length){
         char currchar = chars[i];
         int count = 0;
@@ -9,13 +9,13 @@ class Solution {
             count++;
             i++;
         }
-        chars[index++] = currchar;
+        chars[ind++] = currchar;
         if(count > 1){
             for(char c : Integer.toString(count).toCharArray()){
-                chars[index++] = c;
+                chars[ind++] = c;
             }
         }
      }
-     return index;
+     return ind;
     }
 }
