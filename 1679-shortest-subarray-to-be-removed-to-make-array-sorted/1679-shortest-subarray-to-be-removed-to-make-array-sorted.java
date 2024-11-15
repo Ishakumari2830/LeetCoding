@@ -10,6 +10,7 @@ class Solution {
        while(right > 0 && arr[right] >= arr[right-1]){
         right --;
        }
+       if(right == 0)return n-2;
        int res = Math.min(n-left-1 , right);
        int i = 0, j = right ;
        while(i <= left && j < n){
