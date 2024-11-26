@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Ishakumari2830/LeetCoding/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Ishakumari2830/LeetCoding/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/1916-find-center-of-star-graph) |
+| [3189-find-champion-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3189-find-champion-ii) |
 ## Trie
 |  |
 | ------- |
