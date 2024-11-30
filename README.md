@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ishakumari2830/LeetCoding/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Ishakumari2830/LeetCoding/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Ishakumari2830/LeetCoding/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/1916-find-center-of-star-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishakumari2830/LeetCoding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3189-find-champion-ii) |
@@ -569,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishakumari2830/LeetCoding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
