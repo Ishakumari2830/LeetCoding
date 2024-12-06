@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/0133-clone-graph) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
