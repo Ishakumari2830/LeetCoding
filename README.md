@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3427-special-array-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ishakumari2830/LeetCoding/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ishakumari2830/LeetCoding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [3427-special-array-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3427-special-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
