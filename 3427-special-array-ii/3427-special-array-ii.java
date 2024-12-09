@@ -12,7 +12,7 @@ class Solution {
         for(int i = 0;i<queries.length;i++){
             int left = queries[i][0];
             int right = queries[i][1];
-            int notright = prefix[right]-(left>0 ? prefix[left] : 0);
+            int notright = prefix[right]-prefix[left] ;
 
             ans[i]=(notright==0);
         }
