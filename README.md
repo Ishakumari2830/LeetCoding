@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Ishakumari2830/LeetCoding/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3226-minimum-number-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/3291-find-if-array-can-be-sorted) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishakumari2830/LeetCoding/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/3226-minimum-number-game) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Ishakumari2830/LeetCoding/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Ishakumari2830/LeetCoding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -636,10 +639,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 ## Shortest Path
 |  |
 | ------- |
@@ -653,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishakumari2830/LeetCoding/tree/master/1488-sort-integers-by-the-power-value) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
