@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ishakumari2830/LeetCoding/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ishakumari2830/LeetCoding/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Ishakumari2830/LeetCoding/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Ishakumari2830/LeetCoding/tree/master/1923-sentence-similarity-iii) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ishakumari2830/LeetCoding/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1972-rotating-the-box](https://github.com/Ishakumari2830/LeetCoding/tree/master/1972-rotating-the-box) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Ishakumari2830/LeetCoding/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ishakumari2830/LeetCoding/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishakumari2830/LeetCoding/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Ishakumari2830/LeetCoding/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishakumari2830/LeetCoding/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishakumari2830/LeetCoding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
