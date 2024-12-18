@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ishakumari2830/LeetCoding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ishakumari2830/LeetCoding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Ishakumari2830/LeetCoding/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ishakumari2830/LeetCoding/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ishakumari2830/LeetCoding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Ishakumari2830/LeetCoding/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ishakumari2830/LeetCoding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Iterator
 |  |
