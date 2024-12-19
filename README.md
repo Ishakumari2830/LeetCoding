@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
+| [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ishakumari2830/LeetCoding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -677,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
