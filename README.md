@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ishakumari2830/LeetCoding/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
 | [0670-maximum-swap](https://github.com/Ishakumari2830/LeetCoding/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ishakumari2830/LeetCoding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
