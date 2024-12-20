@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ishakumari2830/LeetCoding/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ishakumari2830/LeetCoding/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishakumari2830/LeetCoding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ishakumari2830/LeetCoding/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ishakumari2830/LeetCoding/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
