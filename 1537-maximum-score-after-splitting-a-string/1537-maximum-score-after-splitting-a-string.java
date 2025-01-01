@@ -1,25 +1,19 @@
 class Solution {
     public int maxScore(String s) {
-        int totalOnes = 0;
-        for(int i =0;i<s.length();i++){
-            if(s.charAt(i)=='1'){
-                totalOnes++;
-            }
-        }
-        int score =0,ZeroCount=0,OneCount=0;
-        for(int i=0 ;i<s.length()-1;i++){
-            if(s.charAt(i)=='0')
-            ZeroCount++;
-            else
-            OneCount++;
-            int Remaining = totalOnes-OneCount;
-            int sum = ZeroCount + Remaining;
-
-            score= Math.max(sum,score);
-
-        }
-        return score;
-
-        
+         int totalone = 0;
+         for(int i = 0;i<s.length();i++){
+            if(s.charAt(i)== '1')totalone++;
+         }
+         int cnt0 = 0;
+         int cnt1 = 0;
+         int maxi = Integer.MIN_VALUE;
+         for(int i = 0;i<s.length()-1;i++){
+            if(s.charAt(i)== '0')cnt0++;
+            else cnt1 ++;
+            int remaining = totalone-cnt1;
+            int sum = remaining + cnt0;
+             maxi = Math.max(sum , maxi);
+         }
+         return maxi;
     }
 }
