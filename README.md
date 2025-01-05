@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishakumari2830/LeetCoding/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ishakumari2830/LeetCoding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ishakumari2830/LeetCoding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Ishakumari2830/LeetCoding/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Ishakumari2830/LeetCoding/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Ishakumari2830/LeetCoding/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Ishakumari2830/LeetCoding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ishakumari2830/LeetCoding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ishakumari2830/LeetCoding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/2691-count-vowel-strings-in-ranges) |
