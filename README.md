@@ -772,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
