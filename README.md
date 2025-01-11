@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Ishakumari2830/LeetCoding/tree/master/0182-duplicate-emails) |
+| [0596-classes-more-than-5-students](https://github.com/Ishakumari2830/LeetCoding/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Ishakumari2830/LeetCoding/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0627-swap-salary) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ishakumari2830/LeetCoding/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
