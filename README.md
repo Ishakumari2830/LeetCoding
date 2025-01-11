@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Ishakumari2830/LeetCoding/tree/master/0182-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/Ishakumari2830/LeetCoding/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Ishakumari2830/LeetCoding/tree/master/0620-not-boring-movies) |
