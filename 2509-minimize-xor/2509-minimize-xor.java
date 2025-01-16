@@ -1,29 +1,40 @@
 class Solution {
-      private boolean isSet(int x, int bit) {
-        return (x & (1 << bit)) != 0;
+    private boolean isSet(int x,int bit){
+        return (x & (1<<bit)) != 0;
     }
-     private int setBit(int x, int bit) {
-        return x | (1 << bit);
+    private int setBit(int x,int bit){
+        return x | (1<<bit);
     }
+     private int unsetBit(int x,int bit){
+        return x & (~(1<<bit));
+    }
+    
     public int minimizeXor(int num1, int num2) {
-         int result = 0;
+        int x = num1;
+        int reqSetCount = Integer.bitCount(num2);
+        int currSetCount = Integer.bitCount(x);
 
-        int targetSetBitsCount = Integer.bitCount(num2);
-        int setBitsCount = 0;
-        int currentBit = 31;
-         while (setBitsCount < targetSetBitsCount) {
-          
-            if (
-                isSet(num1, currentBit) ||
-                (targetSetBitsCount - setBitsCount > currentBit)
-            ) {
-                result = setBit(result, currentBit);
-                setBitsCount++;
+        int bit = 0;
+
+        if(currSetCount < reqSetCount){
+            while(currSetCount < reqSetCount){
+                 if(!isSet(x,bit)){
+                   x = setBit(x,bit);
+                    currSetCount++;
+                 }
+                 bit++;
             }
-            currentBit--; 
+        } else if(currSetCount > reqSetCount){
+            while(currSetCount > reqSetCount){
+                if(isSet(x,bit)){
+                    x= unsetBit(x,bit);
+                    currSetCount--;
+                }
+                bit++;
+            }
         }
 
-        return result;
+      return x;
     
     }
 }
