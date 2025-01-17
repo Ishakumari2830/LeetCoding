@@ -1,38 +1,19 @@
 class Solution {
     public int singleNumber(int[] nums) {
-    //  HashMap<Integer,Integer> mpp = new HashMap<>();
-    //  for(int i =0;i<nums.length;i++){
-    //     if(mpp.containsKey(nums[i])){
-    //         mpp.put(nums[i],mpp.get(nums[i])+1);
-    //     }
-    //     else
-    //     mpp.put(nums[i],1);
-    //  }
-    // //  for (Map.Entry<Integer, Integer> entry : mpp.entrySet()) {
-    // //         if (entry.getValue() == 1) {
-    // //             return entry.getKey();
-    // //         }
-    // // }
-    // for(int key: mpp.keySet()){
-    //     if(mpp.get(key)==1) return key;
-    // }
-    // return -1;
+        int res = 0;
+        for(int k = 0;k<=31;k++){
+            int temp = (1<<k);//kth bit set or not
+            int cntOne = 0;
+            int cntZero = 0;
+            for(int num:nums){
+                if((num & temp)==0)cntZero++;
+                else cntOne++;
+            }
 
-    //using bit manipulation 
-
-    int ans =0;
-    int n = nums.length;
-    for(int biti =0;biti<32;biti++){//traversing the 32 bit 
-       int cnt =0;
-        for(int i =0;i<n;i++){//traversing the array
-           if((nums[i] & (1<<biti)) !=0) cnt++; // check if the ith bit is set or not  
+            if(cntOne %3 == 1){
+                res= (res| temp);
+            }
         }
-        if(cnt%3==1){
-            ans= ans | (1<< biti); //set the ith bit
-        }
+        return res;
     }
-    return ans;
-
-    
-}
 }
