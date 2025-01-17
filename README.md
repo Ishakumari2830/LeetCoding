@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Ishakumari2830/LeetCoding/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/1435-xor-queries-of-a-subarray) |
