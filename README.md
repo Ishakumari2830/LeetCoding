@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ishakumari2830/LeetCoding/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ishakumari2830/LeetCoding/tree/master/2792-neighboring-bitwise-xor) |
+| [3192-maximum-xor-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/3192-maximum-xor-product) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2716-prime-subtraction-operation) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3192-maximum-xor-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/3192-maximum-xor-product) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3192-maximum-xor-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/3192-maximum-xor-product) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
