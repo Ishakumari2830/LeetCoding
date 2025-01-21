@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ishakumari2830/LeetCoding/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ishakumari2830/LeetCoding/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ishakumari2830/LeetCoding/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ishakumari2830/LeetCoding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ishakumari2830/LeetCoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishakumari2830/LeetCoding/tree/master/1488-sort-integers-by-the-power-value) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ishakumari2830/LeetCoding/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Ishakumari2830/LeetCoding/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/2562-count-ways-to-build-good-strings) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishakumari2830/LeetCoding/tree/master/1488-sort-integers-by-the-power-value) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ishakumari2830/LeetCoding/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Ordered Set
 |  |
 | ------- |
