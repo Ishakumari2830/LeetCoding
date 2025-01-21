@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/3226-minimum-number-game) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ishakumari2830/LeetCoding/tree/master/2792-neighboring-bitwise-xor) |
 | [3192-maximum-xor-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/3192-maximum-xor-product) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
