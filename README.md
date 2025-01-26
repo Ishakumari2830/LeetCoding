@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishakumari2830/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Ishakumari2830/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishakumari2830/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
