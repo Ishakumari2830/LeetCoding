@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0322-coin-change) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
