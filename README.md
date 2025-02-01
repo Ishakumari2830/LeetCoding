@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0371-sum-of-two-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ishakumari2830/LeetCoding/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0494-target-sum) |
