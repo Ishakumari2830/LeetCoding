@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ishakumari2830/LeetCoding/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
