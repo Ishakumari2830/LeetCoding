@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ishakumari2830/LeetCoding/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Ishakumari2830/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0407-trapping-rain-water-ii) |
