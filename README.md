@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ishakumari2830/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Ishakumari2830/LeetCoding/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishakumari2830/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Ishakumari2830/LeetCoding/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Ishakumari2830/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0287-find-the-duplicate-number) |
