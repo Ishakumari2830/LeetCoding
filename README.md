@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishakumari2830/LeetCoding/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Ishakumari2830/LeetCoding/tree/master/1039-find-the-town-judge) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishakumari2830/LeetCoding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Ishakumari2830/LeetCoding/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ishakumari2830/LeetCoding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishakumari2830/LeetCoding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
 | [1170-shortest-common-supersequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1250-longest-common-subsequence) |
