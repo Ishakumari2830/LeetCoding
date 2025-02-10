@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/3226-minimum-number-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ishakumari2830/LeetCoding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ishakumari2830/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
