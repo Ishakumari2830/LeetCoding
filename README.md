@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0724-find-pivot-index](https://github.com/Ishakumari2830/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Ishakumari2830/LeetCoding/tree/master/0854-making-a-large-island) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ishakumari2830/LeetCoding/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Ishakumari2830/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ishakumari2830/LeetCoding/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
