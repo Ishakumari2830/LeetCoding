@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ishakumari2830/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ishakumari2830/LeetCoding/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
