@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/1558-course-schedule-iv) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ishakumari2830/LeetCoding/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Ishakumari2830/LeetCoding/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ishakumari2830/LeetCoding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ishakumari2830/LeetCoding/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1502-construct-k-palindrome-strings) |
@@ -627,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Ishakumari2830/LeetCoding/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
