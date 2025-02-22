@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ishakumari2830/LeetCoding/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/1396-count-servers-that-communicate) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ishakumari2830/LeetCoding/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
