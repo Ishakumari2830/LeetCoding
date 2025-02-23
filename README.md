@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ishakumari2830/LeetCoding/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishakumari2830/LeetCoding/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Ishakumari2830/LeetCoding/tree/master/1039-find-the-town-judge) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 ## Design
 |  |
