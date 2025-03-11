@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String Matching
