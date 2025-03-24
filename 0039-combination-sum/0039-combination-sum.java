@@ -1,28 +1,28 @@
 class Solution {
-    static void FindComb(int ind,int[] arr,List<Integer> ds,List<List<Integer>> ans,int target){
-        if(ind==arr.length){
-            if(target==0){
-               ans.add(new ArrayList<>(ds));
+    private void solve(int ind, int[] arr,int target,List<Integer> al, List<List<Integer>> ans){
+        if(ind == arr.length){
+            if(target == 0){
+                ans.add(new ArrayList<>(al));
+
             }
             return;
         }
-        if(arr[ind]<=target){
-            ds.add(arr[ind]);
-            FindComb(ind,arr,ds,ans,target-arr[ind]);
-            ds.remove(ds.size()-1);
-           
-
-
-
+        if(arr[ind] <= target){
+            al.add(arr[ind]);
+            solve(ind,arr,target - arr[ind],al,ans);
+            al.remove(al.size()-1);
+            
         }
-         FindComb(ind+1,arr,ds,ans,target);
-    }
+        solve(ind+1,arr,target,al,ans);
 
+
+    }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        int n = candidates.length;
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> ds = new ArrayList<>();
-        FindComb(0,candidates,ds,ans,target);
+        List<Integer> al = new ArrayList<>();
+        solve(0,candidates,target,al,ans);
         return ans;
-        
+
     }
 }
