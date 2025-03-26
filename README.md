@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ishakumari2830/LeetCoding/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0191-number-of-1-bits) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Ishakumari2830/LeetCoding/tree/master/1160-letter-tile-possibilities) |
