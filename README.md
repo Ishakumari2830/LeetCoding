@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Ishakumari2830/LeetCoding/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0056-merge-intervals) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ishakumari2830/LeetCoding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0494-target-sum) |
