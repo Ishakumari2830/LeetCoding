@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishakumari2830/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishakumari2830/LeetCoding/tree/master/1488-sort-integers-by-the-power-value) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ishakumari2830/LeetCoding/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
