@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ishakumari2830/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Ishakumari2830/LeetCoding/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishakumari2830/LeetCoding/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0435-non-overlapping-intervals) |
 | [0670-maximum-swap](https://github.com/Ishakumari2830/LeetCoding/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1502-construct-k-palindrome-strings) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Ishakumari2830/LeetCoding/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
