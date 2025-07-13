@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Ishakumari2830/LeetCoding/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Ishakumari2830/LeetCoding/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Ishakumari2830/LeetCoding/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishakumari2830/LeetCoding/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Ishakumari2830/LeetCoding/tree/master/1803-average-waiting-time) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ishakumari2830/LeetCoding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ishakumari2830/LeetCoding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ishakumari2830/LeetCoding/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2716-prime-subtraction-operation) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
@@ -1034,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
