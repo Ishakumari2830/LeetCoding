@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ishakumari2830/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/Ishakumari2830/LeetCoding/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ishakumari2830/LeetCoding/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0338-counting-bits) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishakumari2830/LeetCoding/tree/master/1488-sort-integers-by-the-power-value) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ishakumari2830/LeetCoding/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
