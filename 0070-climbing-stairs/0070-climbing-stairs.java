@@ -21,17 +21,28 @@ class Solution {
     // return t[n] = climbStairs(n-1) + climbStairs(n-2);
 
     //Tabulation
-    int[] t = new int[n+1];
-   if(n <= 2)return n;
-   t[0] = 1;
-   t[1]= 1;
+//     int[] t = new int[n+1];
+//    if(n <= 2)return n;
+//    t[0] = 1;
+//    t[1]= 1;
    
 
-    for(int i = 2;i <= n;i++){
-        t[i] = t[i-1] + t[i-2];
-    }
-    return t[n];
+//     for(int i = 2;i <= n;i++){
+//         t[i] = t[i-1] + t[i-2];
+//     }
+//     return t[n];
 
 
+//     }
+    //space optimization
+    if(n<=2)return n ;
+    int prev2 = 1,prev1 = 1;
+    for(int i = 2;i<=n;i++){
+        int curr = prev2 + prev1;
+        prev2 = prev1 ;
+        prev1 = curr;
     }
+    return prev1;
+    }
+
 }
