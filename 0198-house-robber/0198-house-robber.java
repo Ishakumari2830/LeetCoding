@@ -1,25 +1,31 @@
 class Solution {
-    public int rob(int[] nums) {
-        // int prev = 0;
-        // int maxi = 0;
-        // for(int num : nums){
-        //     int temp = Math.max(maxi , prev+ num);
-        //      prev= maxi;
-        //     maxi = temp;
-        // }
-        // return maxi;
+     public int rob(int[] nums) {
+       int n = nums.length;
+       int[] t = new int[n];
+       Arrays.fill(t,-1);
+      return f(nums,n-1,t);
 
-        int n = nums.length ;
-        if(n==1)return nums[0];
 
-        int[] dp = new int[n];
+    }
+    //recursion
+    // private int f(int[] nums,int n){
+    //      if(n == 0)return nums[n];
+    //    if(n < 0)return 0;
+    //    int pick = nums[n] + f(nums,n-2);//since not adjacent
+    //    int notPick = 0 + f(nums,n-1);
+    //    return Math.max(pick , notPick);
 
-        dp[0]=nums[0];
-        dp[1]= Math.max(nums[0],nums[1]);
+    // }
 
-        for(int i = 2;i<n;i++){
-            dp[i]= Math.max(dp[i-1], nums[i]+ dp[i-2]);
-        }
-        return dp[n-1];
+    private int f(int[] nums,int n,int[] t){
+        
+        if(n == 0)return nums[n];
+        if(n <0)return 0;
+
+        if(t[n] != -1 )return t[n];
+        int pick = nums[n] + f(nums,n-2,t);
+        int notpick = 0 + f(nums,n-1,t);
+        return t[n]= Math.max(pick , notpick);
     }
 }
+   
