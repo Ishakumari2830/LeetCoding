@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ishakumari2830/LeetCoding/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/Ishakumari2830/LeetCoding/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ishakumari2830/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Ishakumari2830/LeetCoding/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishakumari2830/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
