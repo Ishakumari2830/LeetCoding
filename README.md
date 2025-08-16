@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
