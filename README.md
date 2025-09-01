@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishakumari2830/LeetCoding/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Ishakumari2830/LeetCoding/tree/master/1063-best-sightseeing-pair) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Ishakumari2830/LeetCoding/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1139,4 +1142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
