@@ -15,27 +15,27 @@ class Solution {
     }
   
     public void nextPermutation(int[] nums) {
-        int ind1 = -1;
-        int ind2 = -1;
-        for(int i = nums.length -2;i>= 0;i--){
-            if(nums[i] < nums[i+1]){
-                ind1 = i;
-                break;
-            }
+        int n = nums.length;
+       int findInd = -1;
+       for(int i = n-1;i>0;i-- ){
+        if(nums[i-1] < nums[i]){
+            findInd = i-1;
+            break;
         }
-        if(ind1 == -1){
-            reverse(nums,0);
+       }
+       
+       if(findInd != -1){
+         int swapInd = findInd;
+       for(int j = n-1;j>= findInd +1;j--){
+        if(nums[j] > nums[findInd]){
+            swapInd = j;
+            break;
         }
-        else {
-            for(int i = nums.length -1 ;i>= 0;i--){
-                if(nums[i]> nums[ind1]){
-                    ind2 = i;
-                    break;
-                }
-            }
-            swap(nums,ind1,ind2);
-            reverse(nums,ind1 + 1);
-        }
+       }
+       
+       swap(nums, findInd, swapInd);
+       }
+       reverse(nums, findInd + 1);
 
     }
 }
