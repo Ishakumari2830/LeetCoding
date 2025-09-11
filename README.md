@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/0347-top-k-frequent-elements) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ishakumari2830/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/Ishakumari2830/LeetCoding/tree/master/0443-string-compression) |
