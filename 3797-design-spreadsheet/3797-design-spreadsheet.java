@@ -11,7 +11,7 @@ class Spreadsheet {
 
     public Spreadsheet(int rows) {
     
-        this.row = row;
+       // this.row = row;
         this.grid = new int[rows][26];
 
     }
