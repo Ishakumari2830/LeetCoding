@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Ishakumari2830/LeetCoding/tree/master/0990-verifying-an-alien-dictionary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Ishakumari2830/LeetCoding/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ishakumari2830/LeetCoding/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ishakumari2830/LeetCoding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
