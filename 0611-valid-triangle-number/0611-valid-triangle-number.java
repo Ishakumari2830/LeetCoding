@@ -15,23 +15,39 @@ class Solution {
     }
 
     public int triangleNumber(int[] nums) {
-       int n = nums.length;
-       int cnt = 0;
-       if(n < 3)return 0;
-       Arrays.sort(nums);
-       for(int i = 0;i<n;i++){
-         if(nums[i]== 0)continue;
-        for(int j = i+1;j<n;j++){
-            int sum = nums[i] + nums[j];
-            int k = binarySearch(nums, j+1, n-1, sum);
-            if(k != -1){
-                cnt += (k-j);
+    //    int n = nums.length;
+    //    int cnt = 0;
+    //    if(n < 3)return 0;
+    //    Arrays.sort(nums);
+    //    for(int i = 0;i<n;i++){
+    //      if(nums[i]== 0)continue;
+    //     for(int j = i+1;j<n;j++){
+    //         int sum = nums[i] + nums[j];
+    //         int k = binarySearch(nums, j+1, n-1, sum);
+    //         if(k != -1){
+    //             cnt += (k-j);
+    //         }
+
+    //     }
+    //    }
+    //    return cnt;
+    Arrays.sort(nums);
+    int n = nums.length;
+    int cnt = 0;
+
+    for(int k = n-1;k>=2;k--){
+        int i = 0;
+        int j = k-1; 
+        while(i < j){
+            if(nums[i] + nums[j] > nums[k]){
+                cnt += (j -i);
+                j--;
+            } else{
+                i++;
             }
-
         }
-       }
-       return cnt;
-
+    }
+    return cnt;
         
     }
 }
