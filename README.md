@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Ishakumari2830/LeetCoding/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Ishakumari2830/LeetCoding/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Ishakumari2830/LeetCoding/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Ishakumari2830/LeetCoding/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Ishakumari2830/LeetCoding/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1013-fibonacci-number) |
@@ -1196,4 +1198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Ishakumari2830/LeetCoding/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
