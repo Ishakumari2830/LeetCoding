@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Ishakumari2830/LeetCoding/tree/master/1803-average-waiting-time) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Ishakumari2830/LeetCoding/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Ishakumari2830/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Ishakumari2830/LeetCoding/tree/master/0091-decode-ways) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
