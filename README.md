@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ishakumari2830/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ishakumari2830/LeetCoding/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Ishakumari2830/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0151-reverse-words-in-a-string) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ishakumari2830/LeetCoding/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Ishakumari2830/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Ishakumari2830/LeetCoding/tree/master/0091-decode-ways) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
