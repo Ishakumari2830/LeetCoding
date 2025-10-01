@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ishakumari2830/LeetCoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ishakumari2830/LeetCoding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ishakumari2830/LeetCoding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0344-reverse-string) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ishakumari2830/LeetCoding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Ishakumari2830/LeetCoding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
