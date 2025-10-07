@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ishakumari2830/LeetCoding/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Ishakumari2830/LeetCoding/tree/master/0443-string-compression) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ishakumari2830/LeetCoding/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0567-permutation-in-string) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ishakumari2830/LeetCoding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ishakumari2830/LeetCoding/tree/master/0535-encode-and-decode-tinyurl) |
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ishakumari2830/LeetCoding/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1198,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Ishakumari2830/LeetCoding/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
