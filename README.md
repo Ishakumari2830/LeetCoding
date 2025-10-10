@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ishakumari2830/LeetCoding/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ishakumari2830/LeetCoding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ishakumari2830/LeetCoding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ishakumari2830/LeetCoding/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ishakumari2830/LeetCoding/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
