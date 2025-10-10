@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/Ishakumari2830/LeetCoding/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/Ishakumari2830/LeetCoding/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ishakumari2830/LeetCoding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ishakumari2830/LeetCoding/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
