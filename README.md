@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
