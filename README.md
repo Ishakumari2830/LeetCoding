@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishakumari2830/LeetCoding/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishakumari2830/LeetCoding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Ishakumari2830/LeetCoding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishakumari2830/LeetCoding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ishakumari2830/LeetCoding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ishakumari2830/LeetCoding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ishakumari2830/LeetCoding/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishakumari2830/LeetCoding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/2232-adding-spaces-to-a-string) |
