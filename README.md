@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Ishakumari2830/LeetCoding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1254,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Game Theory
 |  |
 | ------- |
