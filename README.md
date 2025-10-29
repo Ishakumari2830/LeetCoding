@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/Ishakumari2830/LeetCoding/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
