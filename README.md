@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ishakumari2830/LeetCoding/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ishakumari2830/LeetCoding/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ishakumari2830/LeetCoding/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Ishakumari2830/LeetCoding/tree/master/0342-power-of-four) |
