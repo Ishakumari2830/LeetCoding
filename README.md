@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Ishakumari2830/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Ishakumari2830/LeetCoding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ishakumari2830/LeetCoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0210-course-schedule-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishakumari2830/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0394-decode-string) |
