@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0100-same-tree) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0394-decode-string) |
