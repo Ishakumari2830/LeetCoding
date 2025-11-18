@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/0611-valid-triangle-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ishakumari2830/LeetCoding/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Ishakumari2830/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ishakumari2830/LeetCoding/tree/master/0739-daily-temperatures) |
