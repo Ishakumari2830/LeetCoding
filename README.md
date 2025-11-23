@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ishakumari2830/LeetCoding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/Ishakumari2830/LeetCoding/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ishakumari2830/LeetCoding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ishakumari2830/LeetCoding/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ishakumari2830/LeetCoding/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Ishakumari2830/LeetCoding/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ishakumari2830/LeetCoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishakumari2830/LeetCoding/tree/master/1488-sort-integers-by-the-power-value) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ishakumari2830/LeetCoding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
