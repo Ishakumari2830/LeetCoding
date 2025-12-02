@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ishakumari2830/LeetCoding/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3797-design-spreadsheet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishakumari2830/LeetCoding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3797-design-spreadsheet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishakumari2830/LeetCoding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ishakumari2830/LeetCoding/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -1306,4 +1309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Ishakumari2830/LeetCoding/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
