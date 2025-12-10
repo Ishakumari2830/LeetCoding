@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ishakumari2830/LeetCoding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishakumari2830/LeetCoding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Ishakumari2830/LeetCoding/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ishakumari2830/LeetCoding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishakumari2830/LeetCoding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ishakumari2830/LeetCoding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ishakumari2830/LeetCoding/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ishakumari2830/LeetCoding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ishakumari2830/LeetCoding/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Game Theory
 |  |
