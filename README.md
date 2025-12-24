@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/3226-minimum-number-game) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/3226-minimum-number-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2716-prime-subtraction-operation) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3192-maximum-xor-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/3192-maximum-xor-product) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
