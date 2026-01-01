@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ishakumari2830/LeetCoding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ishakumari2830/LeetCoding/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Ishakumari2830/LeetCoding/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ishakumari2830/LeetCoding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0078-subsets) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Ishakumari2830/LeetCoding/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ishakumari2830/LeetCoding/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Ishakumari2830/LeetCoding/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ishakumari2830/LeetCoding/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ishakumari2830/LeetCoding/tree/master/0241-different-ways-to-add-parentheses) |
