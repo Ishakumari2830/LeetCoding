@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishakumari2830/LeetCoding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0944-delete-columns-to-make-sorted) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ishakumari2830/LeetCoding/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ishakumari2830/LeetCoding/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Ishakumari2830/LeetCoding/tree/master/0909-stone-game) |
