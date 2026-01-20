@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3334-apple-redistribution-into-boxes) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3192-maximum-xor-product](https://github.com/Ishakumari2830/LeetCoding/tree/master/3192-maximum-xor-product) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ishakumari2830/LeetCoding/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/3291-find-if-array-can-be-sorted) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/Ishakumari2830/LeetCoding/tree/master/3394-minimum-array-end) |
