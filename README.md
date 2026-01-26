@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Ishakumari2830/LeetCoding/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Ishakumari2830/LeetCoding/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ishakumari2830/LeetCoding/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1200-minimum-absolute-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ishakumari2830/LeetCoding/tree/master/1266-minimum-time-visiting-all-points) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Ishakumari2830/LeetCoding/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ishakumari2830/LeetCoding/tree/master/1353-find-resultant-array-after-removing-anagrams) |
