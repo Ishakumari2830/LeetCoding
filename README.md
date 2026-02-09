@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ishakumari2830/LeetCoding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ishakumari2830/LeetCoding/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Ishakumari2830/LeetCoding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -861,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ishakumari2830/LeetCoding/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/Ishakumari2830/LeetCoding/tree/master/1873-longest-nice-substring) |
 ## Design
 |  |
@@ -887,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
