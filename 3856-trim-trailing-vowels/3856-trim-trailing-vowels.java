@@ -1,8 +1,8 @@
 class Solution {
     public String trimTrailingVowels(String s) {
         HashSet<Character> st = new HashSet<>();
-        StringBuilder str = new StringBuilder();
-        str.append(s);
+        StringBuilder str = new StringBuilder(s);
+        
         st.add('a');
         st.add('e');
         st.add('i');
