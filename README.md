@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ishakumari2830/LeetCoding/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ishakumari2830/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ishakumari2830/LeetCoding/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/Ishakumari2830/LeetCoding/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ishakumari2830/LeetCoding/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/0229-majority-element-ii) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ishakumari2830/LeetCoding/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Ishakumari2830/LeetCoding/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ishakumari2830/LeetCoding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ishakumari2830/LeetCoding/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ishakumari2830/LeetCoding/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/Ishakumari2830/LeetCoding/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Ishakumari2830/LeetCoding/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ishakumari2830/LeetCoding/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Ishakumari2830/LeetCoding/tree/master/2411-spiral-matrix-iv) |
@@ -1400,4 +1403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Ishakumari2830/LeetCoding/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ishakumari2830/LeetCoding/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3623-count-number-of-trapezoids-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ishakumari2830/LeetCoding/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
