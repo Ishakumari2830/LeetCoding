@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ishakumari2830/LeetCoding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishakumari2830/LeetCoding/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Ishakumari2830/LeetCoding/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ishakumari2830/LeetCoding/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Ishakumari2830/LeetCoding/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/Ishakumari2830/LeetCoding/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ishakumari2830/LeetCoding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ishakumari2830/LeetCoding/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Ishakumari2830/LeetCoding/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Ishakumari2830/LeetCoding/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Ishakumari2830/LeetCoding/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ishakumari2830/LeetCoding/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1418,4 +1421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ishakumari2830/LeetCoding/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ishakumari2830/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
