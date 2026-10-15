@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ishakumari2830/LeetCoding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Ishakumari2830/LeetCoding/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ishakumari2830/LeetCoding/tree/master/3074-apple-redistribution-into-boxes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Ishakumari2830/LeetCoding/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ishakumari2830/LeetCoding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ishakumari2830/LeetCoding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ishakumari2830/LeetCoding/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Ishakumari2830/LeetCoding/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1369,10 +1371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ishakumari2830/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ishakumari2830/LeetCoding/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Rolling Hash
 |  |
